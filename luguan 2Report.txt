@@ -1,0 +1,44 @@
+Report created: 
+	2018/6/30	13:30:39
+
+Project name: luguan 2.aep
+
+Source files collected to: 
+	D:\Prxr\hcrlg\luguan 2 folder
+
+Source files collected: All
+
+Collected comps:  
+	QQ图片20180630121401
+	QQ图片20180630121401.mp4 Comp 1
+	Pre-comp 1
+	
+Number of collected files:  1
+
+Size of collected files:  33 KB
+
+Collected source files: 
+	C:\Users\eggta\Pictures\QQ图片20180630121401.mp4
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  8
+
+Effect:  anti-aliasing
+	
+Effect:  Circle
+	
+Effect:  Fill
+	
+Effect:  Glow
+	
+Effect:  Gradient Ramp
+	
+Effect:  Linear Color Key
+	
+Effect:  S_Shake
+	
+Effect:  Saber
+	
+
