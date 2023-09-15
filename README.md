@@ -1,4 +1,3 @@
-<br>你或许不知道，那个经常在QQ群里传播的冒火GIF是我做的 ;D
 <br>![lg.gif](https://i.loli.net/2021/01/11/YHKQvgcdT5MsU2p.gif)
 <br>灵感来源是在群里看到 ![QQ图片20180630121401.gif](https://i.loli.net/2021/01/11/yEXp3ZheQsIDqz4.gif)
 <br>发现不够震撼于是加了一点效果
